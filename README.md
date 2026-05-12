@@ -1,7 +1,7 @@
 # ICMOTA-2026
 # Graph-Theoretic Stochastic Modeling in High-Dimensional Quantitative Finance
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[Snoob965]/icmota/blob/main/[ICMOTA SGNNs.ipynb])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Snoob965/icmota/blob/main/ICMOTA%20SGNNs.ipynb)
 
 *This repository contains the interactive implementation of the research accepted for presentation at **ICMOTA 2026** (First International Conference on Mathematical Optimization Theory and Applications, IIT BHU).*
 
@@ -18,7 +18,7 @@ The implementation in this notebook focuses on the following core mathematical o
 3. **Hamilton-Jacobi-Isaacs (HJI) Approximation:** Developing computational frameworks to approximate solutions to HJI equations, allowing for the derivation of optimal strategies in environments where exact analytical solutions are computationally intractable.
 
 ## ⚙️ Repository Contents
-* `ICMOTA_Stochastic_Modeling.ipynb`: The core codebase. Contains the complete, top-to-bottom pipeline including data generation/ingestion, graph construction, stochastic simulation, and model evaluation. 
+* `ICMOTA SGNNs.ipynb`: The core codebase. Contains the complete, top-to-bottom pipeline including data generation/ingestion, graph construction, stochastic simulation, and model evaluation. 
 
 ## 🚀 How to Run
 This code is designed to be fully reproducible without requiring local environment configuration. 
